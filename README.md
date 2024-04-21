@@ -7,7 +7,6 @@ A user-friendly, highly customizable Python web app designed to demonstrate LLMs
 </div>
 
 
-
 ### 🧬 1. Clone the Repo
 
 ```bash
@@ -28,7 +27,14 @@ Install `pip` dependencies with the provided `requirements.txt`:
 pip install -r requirements.txt
 ```
 
+
+
 ### 🚀 3. Run the application
+
+ADD YOUR GEMINI API KEY: 
+```in the terminal, enter
+export API_KEY=<YOUR_API_KEY>```
+THIS IS MANDATORY!
 
 Initialize and run the app:
 
