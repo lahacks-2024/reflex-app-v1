@@ -1,2 +1,2 @@
 reflex>=0.4.7
-
+google-generativeai>=0.7.1
