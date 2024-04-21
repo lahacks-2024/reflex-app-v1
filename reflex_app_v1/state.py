@@ -90,7 +90,7 @@ class State(rx.State):
         yield
 
         # Get response from Gemini API
-        response = model.generate_content(prompt=question)
+        response = model.generate_content(question)
 
         # Update the last QA pair with the response
         if response.text:
@@ -123,7 +123,7 @@ class State(rx.State):
 
         try:
             # Request the model to generate a response
-            response = model.generate_content(prompt=question)
+            response = model.generate_content(question)
 
             # Retrieve the content from the response
             answer_text = response.text if response.text else "No response generated."
