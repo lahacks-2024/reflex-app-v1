@@ -1,6 +1,6 @@
-# Reflex Chat App
+# VERSA Chat App 
 
-A user-friendly, highly customizable Python web app designed to demonstrate LLMs in a ChatGPT format.
+
 
 <div align="center">
 <img src="./docs/demo.gif" alt="icon"/>
@@ -8,10 +8,6 @@ A user-friendly, highly customizable Python web app designed to demonstrate LLMs
 
 
 ### 🧬 1. Clone the Repo
-
-```bash
-git clone https://github.com/reflex-dev/reflex-chat.git
-```
 
 ### 📦 2. Install Reflex
 
@@ -43,14 +39,7 @@ reflex init
 reflex run
 ```
 
-# Features
 
-- 100% Python-based, including the UI, using Reflex
-- Create and delete chat sessions
-- The application is fully customizable and no knowledge of web dev is required to use it.
-    - See https://reflex.dev/docs/styling/overview for more details 
-- Easily swap out any LLM
-- Responsive design for various devices
 
 
 
