@@ -2,9 +2,6 @@
 
 
 
-<div align="center">
-<img src="./docs/demo.gif" alt="icon"/>
-</div>
 
 
 ### 🧬 1. Clone the Repo
